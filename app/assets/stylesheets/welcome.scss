@@ -1,0 +1,182 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#crossover_slider{
+	width:300px;
+	background: #BED293;
+	border-color: #879767;
+}
+
+#forage_button, #grocery_list{
+	background:rgb(190, 210, 147);
+	color: white;
+	border: solid 1px black;
+	border-radius: 10px;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+	font-size: x-large;
+	padding: 5px;
+}
+
+#forage_button{
+	width:100px;
+	height:50px;
+	margin-top:30px;
+}
+
+#grocery_list{
+	width:150px;
+	height:50px;
+	margin-top:30px;
+}
+
+#forage_button:hover, #grocery_list:hover{
+	background:rgb(135, 151, 103);
+}
+
+#forage_title{
+	border: solid 5px #DC1431;
+	padding: 10px;
+	color: white;
+	background: #CC0000;
+	line-height: 0px;
+}
+
+#crossover_slider_title, #crossover_slider_label, #lifestyles_title{
+	color: #879767;
+}
+
+#crossover_slider_title{
+	margin-bottom:30px;
+}
+
+#lifestyles_title{
+	text-align:center;
+}
+
+#ingredient_content {
+	display:none;
+    height: 300px;
+    border: 1px solid #000;
+	overflow:hidden;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	color:rgb(135, 151, 103);
+	font-weight:bold;
+}
+
+#minimize_ingredients {
+    width: 100px;
+    height: 25px;
+    background-color: rgb(190, 210, 147);
+	cursor:pointer;
+}
+
+#minimize_ingredients.btn-plus, #minimize_ingredients:hover {
+    background-color: rgb(135, 151, 103);
+}
+
+#ingredient_inclusions{
+	font-size: large;
+	color: rgb(135, 151, 103);
+	font-weight:bold;
+	float:left;
+	margin-top:65px;
+	margin-right:10px;
+}
+
+td{
+	border: 1px solid black;
+}
+
+.active{
+	background: #4C4C4C;
+	color: white;
+}
+
+td:hover {
+  background: #4C4C4C;
+  cursor: pointer;
+  color: white;
+}
+
+#right_header{
+	float:right;
+	cursor:pointer;
+}
+
+#header_user{
+	margin:5px;
+	cursor:pointer;
+}
+
+#header_profile_settings{
+	margin:5px;
+	cursor:pointer;
+}
+
+#sign_out{
+	margin:5px;
+	cursor:pointer;
+}
+
+#header_user:hover, #header_profile_settings:hover, #sign_out:hover{
+	color:black;
+}
+
+.float_left{
+	float:left;
+	margin-right:20px;
+}
+
+#floaters{
+	height:100px;
+}
+
+.lifestyle_label{
+	margin: 5px 5px 0px 15px;
+	float:left;
+	color:rgb(135, 151, 103);
+	font-weight:bold;
+}
+
+.lifestyle_container{
+	float:left;
+}
+
+.hidden {position:absolute;visibility:hidden;opacity:0;}
+input[type=checkbox] + label {
+  cursor:pointer;
+  background: image-url("no_check.png");
+  height:30px;
+  width:30px;
+  display:inline-block;
+  background-size: 100% 100%;
+} 
+
+input[type=checkbox]:checked + label {
+  font-style: normal;
+  background: image-url("checked.png");
+  background-size: 100% 100%;
+}
+
+#ingredient_container{
+	float:left;
+	width:300px;
+	margin-left:10px;
+}
+
+#suggestions_container{
+	width:300px;
+	float:right;
+}
+
+.green{
+	color:rgb(135, 151, 103);;
+}

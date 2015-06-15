@@ -1,0 +1,981 @@
+Item	Vegetarian	Vegan	Dairy	Gluten	Nut
+achiote, seed	 1 	 1 	 -   	 -   	 -   
+achote, seed	 1 	 1 	 -   	 -   	 -   
+achuete, seed	 1 	 1 	 -   	 -   	 -   
+acorn  	 1 	 1 	 -   	 -   	1
+agar powder	 -   	 -   	 -   	 -   	 -   
+ahipa	 -   	 -   	 -   	 -   	 -   
+ala	 1 	 1 	 -   	 1 	 -   
+allspice	 1 	 1 	 -   	 -   	 -   
+allspice, berries	 1 	 1 	 -   	 -   	 -   
+allspice, ground	 1 	 1 	 -   	 -   	 -   
+almond	 1 	 1 	 -   	 -   	1
+almond, bitter	 1 	 1 	 -   	 -   	1
+almond, Chinese	 1 	 1 	 -   	 -   	1
+almond, earth	 1 	 1 	 -   	 -   	1
+almond, Java	 1 	 1 	 -   	 -   	1
+almond, sweet	 1 	 1 	 -   	 -   	1
+almonds	 1 	 1 	 -   	 -   	1
+almonds plus a few drops of almond extract	 1 	 1 	 -   	 -   	1
+angelica	 1 	 1 	 -   	 -   	 -   
+angelica 	 1 	 1 	 -   	 -   	 -   
+anise	 1 	 1 	 -   	 -   	 -   
+anise, Chinese	 1 	 1 	 -   	 -   	 -   
+anise, Chinese star	 1 	 1 	 -   	 -   	 -   
+anise, extract	 1 	 1 	 -   	 -   	 -   
+anise, seed	 1 	 1 	 -   	 -   	 -   
+anise, seed, crushed	 1 	 1 	 -   	 -   	 -   
+anise, star	 1 	 1 	 -   	 -   	 -   
+anise, star, crushed	 1 	 1 	 -   	 -   	 -   
+anise, whole	 1 	 1 	 -   	 -   	 -   
+aniseed	 1 	 1 	 -   	 -   	 -   
+anisette	 -   	 -   	 -   	 -   	 -   
+annatto, seed	 1 	 1 	 -   	 -   	 -   
+annotto, seed	 1 	 1 	 -   	 -   	 -   
+apio	 -   	 -   	 -   	 -   	 -   
+apple, tart	 -   	 -   	 -   	 -   	 -   
+applesauce	 -   	 -   	 -   	 -   	 -   
+applesauce, unsweetened	 -   	 -   	 -   	 -   	 -   
+apricot, seed	 1 	 1 	 -   	 -   	1
+archangel	 1 	 1 	 -   	 -   	 -   
+arracacha	 -   	 -   	 -   	 -   	 -   
+arrow root	 -   	 -   	 -   	 -   	 -   
+arrowhead	 -   	 -   	 -   	 -   	 -   
+arrowhead, Chinese	 -   	 -   	 -   	 -   	 -   
+arrowroot	 -   	 -   	 -   	 -   	 -   
+arrowroot, Brazilian	 -   	 -   	 -   	 -   	 -   
+artichoke, Chinese	 -   	 -   	 -   	 -   	 -   
+artichoke, heart	 -   	 -   	 -   	 -   	 -   
+artichoke, hearts	 -   	 -   	 -   	 -   	 -   
+artichoke, Japanese	 -   	 -   	 -   	 -   	 -   
+artichoke, Jerusalem	 -   	 -   	 -   	 -   	 -   
+arugula	 -   	 -   	 -   	 -   	 -   
+asafoetida, powder	 -   	 -   	 -   	 -   	 -   
+asem candis	 1 	 1 	 -   	 -   	 -   
+asparagus	 -   	 -   	 -   	 -   	 -   
+asparagus   	 -   	 -   	 -   	 -   	 -   
+asparagus, white	 -   	 -   	 -   	 -   	 -   
+atsuete, seed	 1 	 1 	 -   	 -   	 -   
+avocado, leaf	 -   	 -   	 -   	 -   	 -   
+avocado, leaf	 1 	 1 	 -   	 -   	 -   
+bacon	 -   	 -   	 -   	 -   	 -   
+baddo	 -   	 -   	 -   	 -   	 -   
+bai gaprao	 1 	 1 	 -   	 -   	 -   
+bai kaprao	 1 	 1 	 -   	 -   	 -   
+bai kaprow	 1 	 1 	 -   	 -   	 -   
+bai kraprao	 1 	 1 	 -   	 -   	 -   
+bai maengluk	 1 	 1 	 -   	 -   	 -   
+bai manglak	 1 	 1 	 -   	 -   	 -   
+bai toey	 1 	 1 	 -   	 -   	 -   
+bai touy	 1 	 1 	 -   	 -   	 -   
+bai-toey	 1 	 1 	 -   	 -   	 -   
+baking powder	 -   	 -   	 -   	 -   	 -   
+baking soda	 -   	 -   	 -   	 -   	 -   
+balm	 1 	 1 	 -   	 -   	 -   
+bamboo, shoot	 -   	 -   	 -   	 -   	 -   
+banana	 -   	 -   	 -   	 -   	 -   
+banana, leaf	 1 	 1 	 -   	 -   	 -   
+baobab, leaf	 1 	 1 	 -   	 -   	 -   
+basil	 1 	 1 	 -   	 -   	 -   
+basil, anise	 1 	 1 	 -   	 -   	 -   
+basil, holy	 1 	 1 	 -   	 -   	 -   
+basil, Italian	 1 	 1 	 -   	 -   	 -   
+basil, lemon	 1 	 1 	 -   	 -   	 -   
+basil, opal	 1 	 1 	 -   	 -   	 -   
+basil, seed	 1 	 1 	 -   	 -   	 -   
+basil, sweet	 1 	 1 	 -   	 -   	 -   
+basil, sweet Asian	 1 	 1 	 -   	 -   	 -   
+basil, sweet, seed	 1 	 1 	 -   	 -   	 -   
+batata	 -   	 -   	 -   	 -   	 -   
+batata dulce	 -   	 -   	 -   	 -   	 -   
+batiste	 -   	 -   	 -   	 -   	 -   
+bay laurel leaf	 1 	 1 	 -   	 -   	 -   
+bay leaf	 1 	 1 	 -   	 -   	 -   
+bay leaf, Indonesian	 1 	 1 	 -   	 -   	 -   
+bay leaves	 1 	 1 	 -   	 -   	 -   
+bay, leaf	 1 	 1 	 -   	 -   	 -   
+bay, leaf	 1 	 1 	 -   	 -   	 -   
+bean, green	 -   	 -   	 -   	 -   	 -   
+bean	 -   	 -   	 -   	 -   	 -   
+beans, black	 -   	 -   	 -   	 -   	 -   
+bee balm 	 1 	 1 	 -   	 -   	 -   
+beechmast	 1 	 1 	 -   	 -   	1
+beechnut	 1 	 1 	 -   	 -   	1
+beef, ground	 -   	 -   	 -   	 -   	 -   
+beet	 -   	 -   	 -   	 -   	 -   
+beggar's button	 -   	 -   	 -   	 -   	 -   
+belgian endive	 -   	 -   	 -   	 -   	 -   
+benne, seed	 1 	 1 	 -   	 -   	 -   
+bergamot 	 1 	 1 	 -   	 -   	 -   
+bergamot, herb	 1 	 1 	 -   	 -   	 -   
+betel, leaf	 1 	 1 	 -   	 -   	 -   
+bija	 1 	 1 	 -   	 -   	 -   
+bijol	 1 	 1 	 -   	 -   	 -   
+birghil	 1 	 1 	 -   	 1 	 -   
+black pepper, ground	 1 	 1 	 -   	 -   	 -   
+black radish	 -   	 -   	 -   	 -   	 -   
+bok choy	 -   	 -   	 -   	 -   	 -   
+boldo, leaf	 1 	 1 	 -   	 -   	 -   
+boniato	 -   	 -   	 -   	 -   	 -   
+borage	 1 	 1 	 -   	 -   	 -   
+Brazil nuts	 1 	 1 	 -   	 -   	1
+bread	 -   	 -   	 -   	 -   	 -   
+breadcrumbs	 -   	 -   	 -   	 -   	 -   
+breadcrumbs, seasoned	 -   	 -   	 -   	 -   	 -   
+breadnut	 1 	 1 	 -   	 -   	1
+breadnut, seed	 1 	 1 	 -   	 -   	1
+broccoli	 1 	 1 	 -   	 -   	 -   
+buah keras	 1 	 1 	 -   	 -   	1
+burdock	 -   	 -   	 -   	 -   	 -   
+burdock, great	 -   	 -   	 -   	 -   	 -   
+burnet	 1 	 1 	 -   	 -   	 -   
+butter	 -   	 -   	 -   	 -   	 -   
+butter or oil	 -   	 -   	 -   	 -   	 -   
+buttermilk	 -   	 -   	 -   	 -   	 -   
+butternut	 1 	 1 	 -   	 -   	1
+butternuts	 1 	 1 	 -   	 -   	1
+cabbage, swamp	 -   	 -   	 -   	 -   	 -   
+camote   	 -   	 -   	 -   	 -   	 -   
+candlenut	 1 	 1 	 -   	 -   	1
+canela	 1 	 1 	 -   	 -   	 -   
+caper berries	 -   	 -   	 -   	 -   	 -   
+capers	 -   	 -   	 -   	 -   	 -   
+caraway, seed	 1 	 1 	 -   	 -   	 -   
+cardamom	 1 	 1 	 -   	 -   	 -   
+cardamom, brown	 1 	 1 	 -   	 -   	 -   
+cardamom, green	 1 	 1 	 -   	 -   	 -   
+cardamom, ground	 1 	 1 	 -   	 -   	 -   
+cardamom, pod	 1 	 1 	 -   	 -   	 -   
+cardamon	 1 	 1 	 -   	 -   	 -   
+cardamon, pod	 1 	 1 	 -   	 -   	 -   
+cardi	 -   	 -   	 -   	 -   	 -   
+cardoni	 -   	 -   	 -   	 -   	 -   
+cardoon	 -   	 -   	 -   	 -   	 -   
+carrot	 -   	 -   	 -   	 -   	 -   
+carrots	 -   	 -   	 -   	 -   	 -   
+casava	 -   	 -   	 -   	 -   	 -   
+cashew	 1 	 1 	 -   	 -   	1
+cassava	 -   	 -   	 -   	 -   	 -   
+cassia	 1 	 1 	 -   	 -   	 -   
+cassia, Chinese	 1 	 1 	 -   	 -   	 -   
+cauliflower	 -   	 -   	 -   	 -   	 -   
+celeriac	 -   	 -   	 -   	 -   	 -   
+céleri-rave	 -   	 -   	 -   	 -   	 -   
+celery	 1 	 1 	 -   	 -   	 -   
+celery, leaf	 1 	 1 	 -   	 -   	 -   
+celery, Chinese	 -   	 -   	 -   	 -   	 -   
+celery, Germany	 -   	 -   	 -   	 -   	 -   
+celery, knob	 -   	 -   	 -   	 -   	 -   
+celery, leaf	 1 	 1 	 -   	 -   	 -   
+celery, powder	 1 	 1 	 -   	 -   	 -   
+celery, rib	 -   	 -   	 -   	 -   	 -   
+celery, root	 -   	 -   	 -   	 -   	 -   
+celery, salt	 1 	 1 	 -   	 -   	 -   
+celery, seed	 1 	 1 	 -   	 -   	 -   
+celery, soup	 -   	 -   	 -   	 -   	 -   
+celery, stalk	 -   	 -   	 -   	 -   	 -   
+celery, Texas	 -   	 -   	 -   	 -   	 -   
+celery, tops	 1 	 1 	 -   	 -   	 -   
+celery, turnip	 -   	 -   	 -   	 -   	 -   
+celery, turnip-rooted	 -   	 -   	 -   	 -   	 -   
+celery, wild	 1 	 1 	 -   	 -   	 -   
+cereal, fiber	 -   	 -   	 -   	 -   	 -   
+chardoon	 -   	 -   	 -   	 -   	 -   
+cheese, Alouette	 1 	 -   	 1 	 -   	 -   
+cheese, anejo	 1 	 -   	 1 	 -   	 -   
+cheese, asiago	 1 	 -   	 1 	 -   	 -   
+cheese, bleu	 1 	 -   	 1 	 -   	 -   
+cheese, Bleu d'Auvergne	 1 	 -   	 1 	 -   	 -   
+cheese, blue	 1 	 -   	 1 	 -   	 -   
+cheese, blue-veined	 1 	 -   	 1 	 -   	 -   
+cheese, boule de Lille	 1 	 -   	 1 	 -   	 -   
+cheese, Boursin	 1 	 -   	 1 	 -   	 -   
+cheese, Bovarian blue	 1 	 -   	 1 	 -   	 -   
+cheese, buttermilk	 1 	 -   	 1 	 -   	 -   
+cheese, cabrales	 1 	 -   	 1 	 -   	 -   
+cheese, chèvre frais	 1 	 -   	 1 	 -   	 -   
+cheese, cotija	 1 	 -   	 1 	 -   	 -   
+cheese, cottage	 -   	 -   	 -   	 -   	 -   
+cheese, cottage, dry	 -   	 -   	 -   	 -   	 -   
+cheese, cream	 -   	 -   	 -   	 -   	 -   
+cheese, danish blue	 1 	 -   	 1 	 -   	 -   
+cheese, dry jack	 1 	 -   	 1 	 -   	 -   
+cheese, dry Monterey	 1 	 -   	 1 	 -   	 -   
+cheese, Emmentaler	 1 	 -   	 1 	 -   	 -   
+cheese, feta	 1 	 -   	 1 	 -   	 -   
+cheese, Fontina	 1 	 -   	 1 	 -   	 -   
+cheese, gorgonzola	 1 	 -   	 1 	 -   	 -   
+cheese, gouda	 1 	 -   	 1 	 -   	 -   
+cheese, Grana Padano	 1 	 -   	 1 	 -   	 -   
+cheese, Gruyere	 1 	 -   	 1 	 -   	 -   
+cheese, Kachkeval	 1 	 -   	 1 	 -   	 -   
+cheese, Kashkaval	 1 	 -   	 1 	 -   	 -   
+cheese, Kefalotiri	 1 	 -   	 1 	 -   	 -   
+cheese, Kefalotyri	 1 	 -   	 1 	 -   	 -   
+cheese, Manchego	 1 	 -   	 1 	 -   	 -   
+cheese, maytag blue	 1 	 -   	 1 	 -   	 -   
+cheese, mimolette	 1 	 -   	 1 	 -   	 -   
+cheese, Mizithra	 1 	 -   	 1 	 -   	 -   
+cheese, Monterey jack	 1 	 -   	 1 	 -   	 -   
+cheese, Mytzithra	 1 	 -   	 1 	 -   	 -   
+cheese, parmesan	 1 	 -   	 1 	 -   	 -   
+cheese, Parmigiano	 1 	 -   	 1 	 -   	 -   
+cheese, pecorino Romano	 1 	 -   	 1 	 -   	 -   
+cheese, picon	 1 	 -   	 1 	 -   	 -   
+cheese, ricotta	 1 	 -   	 1 	 -   	 -   
+cheese, ricotta salata	 1 	 -   	 1 	 -   	 -   
+cheese, romano	 1 	 -   	 1 	 -   	 -   
+cheese, Rondelé	 1 	 -   	 1 	 -   	 -   
+cheese, Roquefort	 1 	 -   	 1 	 -   	 -   
+cheese, Saanen	 1 	 -   	 1 	 -   	 -   
+cheese, Saenkanter	 1 	 -   	 1 	 -   	 -   
+cheese, saga blue	 1 	 -   	 1 	 -   	 -   
+cheese, Sap sago	 1 	 -   	 1 	 -   	 -   
+cheese, Sapsago	 1 	 -   	 1 	 -   	 -   
+cheese, Sbrinz	 1 	 -   	 1 	 -   	 -   
+cheese, Schabziger	 1 	 -   	 1 	 -   	 -   
+cheese, Sierra	 1 	 -   	 1 	 -   	 -   
+cheese, Soyco	 -   	 -   	 -   	 -   	 -   
+cheese, Stilton	 1 	 -   	 1 	 -   	 -   
+cheese, Swiss Sbrinz	 1 	 -   	 1 	 -   	 -   
+cheese, Tzfati	 1 	 -   	 1 	 -   	 -   
+chervil	 1 	 1 	 -   	 -   	 -   
+chervil, Spanish	 1 	 1 	 -   	 -   	 -   
+chervil, sweet	 1 	 1 	 -   	 -   	 -   
+chestnut	 1 	 1 	 -   	 -   	1
+chestnut, Polynesian	 1 	 1 	 -   	 -   	1
+chestnut, water	 -   	 -   	 -   	 -   	 -   
+chestnut, water	 1 	 1 	 -   	 -   	1
+chestnut, water, Chinese	 -   	 -   	 -   	 -   	 -   
+chestnut, water, horned	 1 	 1 	 -   	 -   	1
+chestnuts, water	 -   	 -   	 -   	 -   	 -   
+chia, seed	 -   	 -   	 -   	 -   	 -   
+chicory	 -   	 -   	 -   	 -   	 -   
+chile	 1 	 1 	 -   	 -   	 -   
+chile, leaf	 1 	 1 	 -   	 -   	 -   
+chile, oil	 1 	 1 	 -   	 -   	 -   
+chile, red, New Mexican	 1 	 1 	 -   	 -   	 -   
+chili powder	 1 	 1 	 -   	 -   	 -   
+chili, leaf	 1 	 1 	 -   	 -   	 -   
+chili, paste	 1 	 1 	 -   	 -   	 -   
+chilli, leaf	 1 	 1 	 -   	 -   	 -   
+Chinese celery	 1 	 1 	 -   	 -   	 -   
+Chinese chives	 1 	 1 	 -   	 -   	 -   
+Chinese five-spice, powder	 1 	 1 	 -   	 -   	 -   
+chive	 -   	 -   	 -   	 -   	 -   
+chive, Chinese	 -   	 -   	 -   	 -   	 -   
+chives	 1 	 1 	 -   	 -   	 -   
+chives (especially with eggs)	 1 	 1 	 -   	 -   	 -   
+chives, Chinese	 1 	 1 	 -   	 -   	 -   
+chives, flowering	 1 	 1 	 -   	 -   	 -   
+chives, flowering, Chinese	 1 	 1 	 -   	 -   	 -   
+chives, flowering, garlic	 1 	 1 	 -   	 -   	 -   
+chocolate	 -   	 -   	 -   	 -   	 -   
+chocolate, chips	 -   	 -   	 -   	 -   	 -   
+choke-sun	 -   	 -   	 -   	 -   	 -   
+chorogi   	 -   	 -   	 -   	 -   	 -   
+chot, gow	 1 	 1 	 -   	 -   	 -   
+chufa	 1 	 1 	 -   	 -   	1
+chun-sun   	 -   	 -   	 -   	 -   	 -   
+ci gu	 -   	 -   	 -   	 -   	 -   
+cibol	 -   	 -   	 -   	 -   	 -   
+cicely	 1 	 1 	 -   	 -   	 -   
+cicely, sweet	 1 	 1 	 -   	 -   	 -   
+cilantro	 1 	 1 	 -   	 -   	 -   
+cilantro, root	 -   	 -   	 -   	 -   	 -   
+cilantro, stem	 -   	 -   	 -   	 -   	 -   
+cinnamon	 1 	 1 	 -   	 -   	 -   
+cinnamon, cassia	 1 	 1 	 -   	 -   	 -   
+cinnamon, Chinese	 1 	 1 	 -   	 -   	 -   
+cinnamon, false	 1 	 1 	 -   	 -   	 -   
+cinnamon, ground	 1 	 1 	 -   	 -   	 -   
+cinnamon, stick	 1 	 1 	 -   	 -   	 -   
+clove	 1 	 1 	 -   	 -   	 -   
+cloves, ground	 1 	 1 	 -   	 -   	 -   
+cobnut   	 1 	 1 	 -   	 -   	1
+coco	 -   	 -   	 -   	 -   	 -   
+cocoa	 -   	 -   	 -   	 -   	 -   
+coconut, shoot	 -   	 -   	 -   	 -   	 -   
+cocoyam	 -   	 -   	 -   	 -   	 -   
+cocoyam, old	 -   	 -   	 -   	 -   	 -   
+comino	 1 	 1 	 -   	 -   	 -   
+coriander, false	 1 	 1 	 -   	 -   	 -   
+coriander, green	 1 	 1 	 -   	 -   	 -   
+coriander, ground	 1 	 1 	 -   	 -   	 -   
+coriander, leaf	 1 	 1 	 -   	 -   	 -   
+coriander, long	 1 	 1 	 -   	 -   	 -   
+coriander, Mexican	 1 	 1 	 -   	 -   	 -   
+coriander, root	 -   	 -   	 -   	 -   	 -   
+coriander, Vietnamese	 1 	 1 	 -   	 -   	 -   
+corn, husks	 1 	 1 	 -   	 -   	 -   
+cornmeal, fine	 -   	 -   	 -   	 -   	 -   
+cornstarch	 -   	 -   	 -   	 -   	 -   
+cottage cheese	 -   	 -   	 -   	 -   	 -   
+couscous	 1 	 1 	 -   	 1 	 -   
+cranberries	 -   	 -   	 -   	 -   	 -   
+cream	 1 	 -   	 1 	 -   	 -   
+cream of tartar	 -   	 -   	 -   	 -   	 -   
+cream, breakfast	 1 	 -   	 1 	 -   	 -   
+cream, clotted	 1 	 -   	 1 	 -   	 -   
+cream, coffee	 1 	 -   	 1 	 -   	 -   
+cream, Devon	 1 	 -   	 1 	 -   	 -   
+cream, Devonshire	 1 	 -   	 1 	 -   	 -   
+cream, double	 1 	 -   	 1 	 -   	 -   
+cream, heavy	 -   	 -   	 -   	 -   	 -   
+cream, light	 1 	 -   	 1 	 -   	 -   
+cream, table	 1 	 -   	 1 	 -   	 -   
+cream, whipping	 1 	 -   	 1 	 -   	 -   
+cream, whipping, heavy	 1 	 -   	 1 	 -   	 -   
+cream, whipping, light	 1 	 -   	 1 	 -   	 -   
+créme fraîche	 1 	 -   	 1 	 -   	 -   
+crosne	 -   	 -   	 -   	 -   	 -   
+cuajes	 1 	 1 	 -   	 -   	 -   
+culantrillo	 1 	 1 	 -   	 -   	 -   
+culantro	 1 	 1 	 -   	 -   	 -   
+culentro	 1 	 1 	 -   	 -   	 -   
+cumin	 1 	 1 	 -   	 -   	 -   
+cumin, black, seed	 1 	 1 	 -   	 -   	 -   
+cumin, seed	 1 	 1 	 -   	 -   	 -   
+cummin	 1 	 1 	 -   	 -   	 -   
+curry, leaf	 1 	 1 	 -   	 -   	 -   
+cush-cush	 -   	 -   	 -   	 -   	 -   
+daikon	 -   	 -   	 -   	 -   	 -   
+dandelion greens, young	 -   	 -   	 -   	 -   	 -   
+dasheen	 -   	 -   	 -   	 -   	 -   
+daun kesom	 1 	 1 	 -   	 -   	 -   
+daun ketumbar	 1 	 1 	 -   	 -   	 -   
+daun pandan	 1 	 1 	 -   	 -   	 -   
+daun salam	 1 	 1 	 -   	 -   	 -   
+dill	 1 	 1 	 -   	 -   	 -   
+dill 	 1 	 1 	 -   	 -   	 -   
+dill leaf	 1 	 1 	 -   	 -   	 -   
+dill, weed	 1 	 1 	 -   	 -   	 -   
+dill, leaf	 1 	 1 	 -   	 -   	 -   
+dill, seed	 1 	 1 	 -   	 -   	 -   
+dill, seed, milder	 1 	 1 	 -   	 -   	 -   
+dillseed 	 1 	 1 	 -   	 -   	 -   
+dillweed	 1 	 1 	 -   	 -   	 -   
+earth nut	 1 	 1 	 -   	 -   	1
+eddo	 1 	 1 	 -   	 -   	 -   
+egg	 -   	 -   	 -   	 -   	 -   
+egg custard	 1 	 -   	 1 	 -   	 -   
+egg, beaters	 -   	 -   	 -   	 -   	 -   
+egg, white	 -   	 -   	 -   	 -   	 -   
+egg, whites	 -   	 -   	 -   	 -   	 -   
+elephant's ear	 -   	 -   	 -   	 -   	 -   
+endive, Belgian	 -   	 -   	 -   	 -   	 -   
+epazote	 1 	 1 	 -   	 -   	 -   
+equal parts parsley and celery leaves	 1 	 1 	 -   	 -   	 -   
+escarole	 1 	 1 	 -   	 -   	 -   
+evaporated milk	 1 	 -   	 1 	 -   	 -   
+extract, almond	 1 	 1 	 -   	 -   	1
+extract, vanilla	 -   	 -   	 -   	 -   	 -   
+fennel	 1 	 1 	 -   	 -   	 -   
+fennel, leaf	 1 	 1 	 -   	 -   	 -   
+fennel, bulb	 -   	 -   	 -   	 -   	 -   
+fennel, feather	 -   	 -   	 -   	 -   	 -   
+fennel, leaf	 1 	 1 	 -   	 -   	 -   
+fennel, seed	 1 	 1 	 -   	 -   	 -   
+fennel, stalk	 -   	 -   	 -   	 -   	 -   
+fenugreek, leaf	 1 	 1 	 -   	 -   	 -   
+fern   	 -   	 -   	 -   	 -   	 -   
+fiddlehead fern	 -   	 -   	 -   	 -   	 -   
+fiddlehead, greens	 -   	 -   	 -   	 -   	 -   
+fil	 1 	 1 	 -   	 -   	 -   
+filbert	 1 	 1 	 -   	 -   	1
+file	 1 	 1 	 -   	 -   	 -   
+filé	 1 	 1 	 -   	 -   	 -   
+file gumbo	 1 	 1 	 -   	 -   	 -   
+file powder	 1 	 1 	 -   	 -   	 -   
+fines herbes	 1 	 1 	 -   	 -   	 -   
+flax, crushed	 -   	 -   	 -   	 -   	 -   
+flaxseed	 -   	 -   	 -   	 -   	 -   
+Florida almond	 1 	 1 	 -   	 -   	1
+flour	 -   	 -   	 -   	 -   	 -   
+flour, all-purpose	 -   	 -   	 -   	 -   	 -   
+flour, almond	 -   	 -   	 -   	 -   	 -   
+flour, cake	 -   	 -   	 -   	 -   	 -   
+flour, oat	 -   	 -   	 -   	 -   	 -   
+flour, potato starch	 -   	 -   	 -   	 -   	 -   
+flour, rice	 -   	 -   	 -   	 -   	 -   
+flour, rye	 -   	 -   	 -   	 -   	 -   
+flour, soy	 -   	 -   	 -   	 -   	 -   
+flour, wheat	 -   	 -   	 -   	 -   	 -   
+flour, white	 -   	 -   	 -   	 -   	 -   
+flour, whole wheat	 -   	 -   	 -   	 -   	 -   
+food coloring, green	 1 	 1 	 -   	 -   	 -   
+food coloring, yellow	 1 	 1 	 -   	 -   	 -   
+French parsley	 1 	 1 	 -   	 -   	 -   
+fruit, dried	 -   	 -   	 -   	 -   	 -   
+garlic	 -   	 -   	 -   	 -   	 -   
+garlic, clove	 1 	 1 	 -   	 -   	 -   
+garlic, cloves	 1 	 1 	 -   	 -   	 -   
+garlic, green	 -   	 -   	 -   	 -   	 -   
+garlic, shoots	 1 	 1 	 -   	 -   	 -   
+gelatin	 -   	 -   	 -   	 -   	 -   
+gin	 1 	 1 	 -   	 -   	 -   
+ginger	 1 	 1 	 -   	 -   	 -   
+ginger, crystallized	 1 	 1 	 -   	 -   	 -   
+ginger, ground	 1 	 1 	 -   	 -   	 -   
+ginger, pickled	 -   	 -   	 -   	 -   	 -   
+ginger, root	 1 	 1 	 -   	 -   	 -   
+girasole	 -   	 -   	 -   	 -   	 -   
+goatsbeard	 -   	 -   	 -   	 -   	 -   
+goma 	 1 	 1 	 -   	 -   	 -   
+goo	 -   	 -   	 -   	 -   	 -   
+goober	 1 	 1 	 -   	 -   	1
+goober pea	 1 	 1 	 -   	 -   	1
+goosefoot	 1 	 1 	 -   	 -   	 -   
+grape leaves	 1 	 1 	 -   	 -   	 -   
+grape, leaf	 1 	 1 	 -   	 -   	 -   
+green onion 	 -   	 -   	 -   	 -   	 -   
+green onion tops	 1 	 1 	 -   	 -   	 -   
+ground ash	 1 	 1 	 -   	 -   	 -   
+groundnut	 1 	 1 	 -   	 -   	1
+guajes	 1 	 1 	 -   	 -   	 -   
+gumbo file	 1 	 1 	 -   	 -   	 -   
+gumbo filé	 1 	 1 	 -   	 -   	 -   
+half & half	 1 	 -   	 1 	 -   	 -   
+half-and-half	 -   	 -   	 -   	 -   	 -   
+hang yen	 1 	 1 	 -   	 -   	1
+hazelnut	 1 	 1 	 -   	 -   	1
+hearts of palm	 -   	 -   	 -   	 -   	 -   
+heimischer	 -   	 -   	 -   	 -   	 -   
+herb, fresh	 -   	 -   	 -   	 -   	 -   
+herbes de Provence	 1 	 1 	 -   	 -   	 -   
+hierba buena	 1 	 1 	 -   	 -   	 -   
+hierba santa	 1 	 1 	 -   	 -   	 -   
+hoja de aguacole	 1 	 1 	 -   	 -   	 -   
+hoja santa, leaf	 -   	 -   	 -   	 -   	 -   
+hoja santa, leaf	 1 	 1 	 -   	 -   	 -   
+holba	 1 	 1 	 -   	 -   	 -   
+horseradish	 1 	 1 	 -   	 -   	 -   
+horseradish, root	 -   	 -   	 -   	 -   	 -   
+horseradish, sauce	 -   	 -   	 -   	 -   	 -   
+huauzontle	 1 	 1 	 -   	 -   	 -   
+hyssop	 1 	 1 	 -   	 -   	 -   
+igname   	 -   	 -   	 -   	 -   	 -   
+indian bay leaf	 1 	 1 	 -   	 -   	 -   
+Indian bay leaves	 1 	 1 	 -   	 -   	 -   
+Indian bay, leaf	 1 	 1 	 -   	 -   	 -   
+jackfruit, seed	 1 	 1 	 -   	 -   	1
+jeera	 1 	 1 	 -   	 -   	 -   
+Jerusalem oak	 1 	 1 	 -   	 -   	 -   
+jicama	 -   	 -   	 -   	 -   	 -   
+jícama	 -   	 -   	 -   	 -   	 -   
+jicama  	 -   	 -   	 -   	 -   	 -   
+juice, lemon	 1 	 1 	 -   	 -   	 -   
+juniper berries (to flavor meat)	 1 	 1 	 -   	 -   	 -   
+juniper, berries	 1 	 1 	 -   	 -   	 -   
+kaffir lime leaf	 1 	 1 	 -   	 -   	 -   
+kaffir lime, leaf	 1 	 1 	 -   	 -   	 -   
+kari patta	 1 	 1 	 -   	 -   	 -   
+kemangi 	 1 	 1 	 -   	 -   	 -   
+kemiri	 1 	 1 	 -   	 -   	1
+ketumbar	 1 	 1 	 -   	 -   	 -   
+kewra	 1 	 1 	 -   	 -   	 -   
+khuen chai	 -   	 -   	 -   	 -   	 -   
+kinchay  	 -   	 -   	 -   	 -   	 -   
+kluwak kupas	 1 	 1 	 -   	 -   	1
+kohlrabi	 -   	 -   	 -   	 -   	 -   
+kohlrabi bulbs	 -   	 -   	 -   	 -   	 -   
+kokum	 1 	 1 	 -   	 -   	 -   
+koyendoro	 1 	 1 	 -   	 -   	 -   
+ku chai 	 1 	 1 	 -   	 -   	 -   
+kuka	 1 	 1 	 -   	 -   	 -   
+la lot leaf	 1 	 1 	 -   	 -   	 -   
+la ot	 1 	 1 	 -   	 -   	 -   
+laksa leaf	 1 	 1 	 -   	 -   	 -   
+la-lot leaf	 1 	 1 	 -   	 -   	 -   
+lamb's quarters	 1 	 1 	 -   	 -   	 -   
+laurel leaf	 1 	 1 	 -   	 -   	 -   
+leek	 -   	 -   	 -   	 -   	 -   
+leek, bulb	 -   	 -   	 -   	 -   	 -   
+leek, small	 -   	 -   	 -   	 -   	 -   
+leek, stone	 -   	 -   	 -   	 -   	 -   
+leek, wild	 -   	 -   	 -   	 -   	 -   
+leeks	 -   	 -   	 -   	 -   	 -   
+lemon balm	 1 	 1 	 -   	 -   	 -   
+lemon zest	 1 	 1 	 -   	 -   	 -   
+lemon, leaf	 1 	 1 	 -   	 -   	 -   
+lemon, peel	 1 	 1 	 -   	 -   	 -   
+lemon, zest	 1 	 1 	 -   	 -   	 -   
+lemongrass	 1 	 1 	 -   	 -   	 -   
+lettuce, bibb	 -   	 -   	 -   	 -   	 -   
+lettuce, Boston	 -   	 -   	 -   	 -   	 -   
+lettuce, butter	 -   	 -   	 -   	 -   	 -   
+lettuce, corn salad	 -   	 -   	 -   	 -   	 -   
+lettuce, cress	 -   	 -   	 -   	 -   	 -   
+lettuce, iceberg	 -   	 -   	 -   	 -   	 -   
+lettuce, leaf	 -   	 -   	 -   	 -   	 -   
+lettuce, leaf	 -   	 -   	 -   	 -   	 -   
+lettuce, romaine	 1 	 1 	 -   	 -   	 -   
+lime, leaf	 1 	 1 	 -   	 -   	 -   
+ling chio	 1 	 1 	 -   	 -   	1
+ling jiao	 1 	 1 	 -   	 -   	1
+ling kio	 1 	 1 	 -   	 -   	1
+ling kok	 1 	 1 	 -   	 -   	1
+liqueur, amaretto	 1 	 1 	 -   	 -   	1
+liquid	 -   	 -   	 -   	 -   	 -   
+liquid (milk, cream, buttermilk, diluted yogurt)	 -   	 -   	 -   	 -   	 -   
+liquid aminos	 -   	 -   	 -   	 -   	 -   
+lo bak	 -   	 -   	 -   	 -   	 -   
+lo pak	 -   	 -   	 -   	 -   	 -   
+loh baak	 -   	 -   	 -   	 -   	 -   
+loh buk	 -   	 -   	 -   	 -   	 -   
+lotus, root	 -   	 -   	 -   	 -   	 -   
+lovage	 1 	 1 	 -   	 -   	 -   
+lovage, seed	 1 	 1 	 -   	 -   	 -   
+mace	 1 	 1 	 -   	 -   	 -   
+mace 	 1 	 1 	 -   	 -   	 -   
+maguey, leaf	 1 	 1 	 -   	 -   	 -   
+malanga	 -   	 -   	 -   	 -   	 -   
+mandioca	 -   	 -   	 -   	 -   	 -   
+manioc	 -   	 -   	 -   	 -   	 -   
+mape	 1 	 1 	 -   	 -   	1
+mapuey	 -   	 -   	 -   	 -   	 -   
+margarine, polyunsaturated	 -   	 -   	 -   	 -   	 -   
+marigold blossoms	 1 	 1 	 -   	 -   	 -   
+marjoram	 1 	 1 	 -   	 -   	 -   
+marjoram, knot	 1 	 1 	 -   	 -   	 -   
+marjoram, knotted	 1 	 1 	 -   	 -   	 -   
+marjoram, pot	 1 	 1 	 -   	 -   	 -   
+marjoram, sweet	 1 	 1 	 -   	 -   	 -   
+marjoram, wild	 1 	 1 	 -   	 -   	 -   
+marron	 1 	 1 	 -   	 -   	1
+masterwort	 1 	 1 	 -   	 -   	 -   
+mayonnaise	 -   	 -   	 -   	 -   	 -   
+meetha neem	 1 	 1 	 -   	 -   	 -   
+melissa	 1 	 1 	 -   	 -   	 -   
+methi, leaf	 1 	 1 	 -   	 -   	 -   
+Mexican potato	 -   	 -   	 -   	 -   	 -   
+Mexican tea	 1 	 1 	 -   	 -   	 -   
+milk	 -   	 -   	 -   	 -   	 -   
+milk, almond	 -   	 -   	 -   	 -   	 -   
+milk, cashew	 -   	 -   	 -   	 -   	 -   
+milk, coconut	 -   	 -   	 -   	 -   	 -   
+milk, concentrated	 1 	 -   	 1 	 -   	 -   
+milk, condensed	 -   	 -   	 -   	 -   	 -   
+milk, cow	 1 	 -   	 1 	 -   	 -   
+milk, evaporated	 -   	 -   	 -   	 -   	 -   
+milk, evaporated	 -   	 -   	 -   	 -   	 -   
+milk, evaporated, low fat	 -   	 -   	 -   	 -   	 -   
+milk, goat	 1 	 -   	 1 	 -   	 -   
+milk, hemp	 -   	 -   	 -   	 -   	 -   
+milk, non-fat, dry	 -   	 -   	 -   	 -   	 -   
+milk, oat	 -   	 -   	 -   	 -   	 -   
+milk, rice	 -   	 -   	 -   	 -   	 -   
+milk, skim	 -   	 -   	 -   	 -   	 -   
+milk, skim, evaporated	 -   	 -   	 -   	 -   	 -   
+milk, soy	 -   	 -   	 -   	 -   	 -   
+milk, sweetened, condensed	 -   	 -   	 -   	 -   	 -   
+milk, sweetened, condensed, low fat	 -   	 -   	 -   	 -   	 -   
+milk, sweetened, condensed, non-fat	 -   	 -   	 -   	 -   	 -   
+milk, whole	 -   	 -   	 -   	 -   	 -   
+mint	 1 	 1 	 -   	 -   	 -   
+mint, brandy	 1 	 1 	 -   	 -   	 -   
+mint, Vietnamese	 1 	 1 	 -   	 -   	 -   
+mooli	 -   	 -   	 -   	 -   	 -   
+mustard greens, young	 -   	 -   	 -   	 -   	 -   
+mustard, German	 -   	 -   	 -   	 -   	 -   
+mustard, powder	 1 	 1 	 -   	 -   	 -   
+mustard, powdered	 1 	 1 	 -   	 -   	 -   
+name	 -   	 -   	 -   	 -   	 -   
+namé	 -   	 -   	 -   	 -   	 -   
+nasturtium leaves	 -   	 -   	 -   	 -   	 -   
+newspice	 1 	 1 	 -   	 -   	 -   
+nopalitos	 1 	 1 	 -   	 -   	 -   
+nut, Australian	 1 	 1 	 -   	 -   	1
+nut, beech	 1 	 1 	 -   	 -   	1
+nut, Brazil	 1 	 1 	 -   	 -   	1
+nut, candle nut	 1 	 1 	 -   	 -   	1
+nut, chufa	 1 	 1 	 -   	 -   	1
+nut, cream	 1 	 1 	 -   	 -   	1
+nut, gingko	 1 	 1 	 -   	 -   	1
+nut, hickory	 1 	 1 	 -   	 -   	1
+nut, Indian	 1 	 1 	 -   	 -   	1
+nut, Jesuit	 1 	 1 	 -   	 -   	1
+nut, kluwak	 1 	 1 	 -   	 -   	1
+nut, macadamia	 1 	 1 	 -   	 -   	1
+nut, macadamia nuts	 1 	 1 	 -   	 -   	1
+nut, monkey	 1 	 1 	 -   	 -   	1
+nut, para	 1 	 1 	 -   	 -   	1
+nut, paradise	 1 	 1 	 -   	 -   	1
+nut, pili	 1 	 1 	 -   	 -   	1
+nut, pine	 1 	 1 	 -   	 -   	1
+nut, Queensland	 1 	 1 	 -   	 -   	1
+nut, rush	 1 	 1 	 -   	 -   	1
+nut, sapucaya	 1 	 1 	 -   	 -   	1
+nut, sapucia	 1 	 1 	 -   	 -   	1
+nut, tiger	 1 	 1 	 -   	 -   	1
+nut, white	 1 	 1 	 -   	 -   	1
+nutmeg	 1 	 1 	 -   	 -   	 -   
+nutmeg, ground	 1 	 1 	 -   	 -   	 -   
+nutritional yeast	 -   	 -   	 -   	 -   	 -   
+nuts	 -   	 -   	 -   	 -   	 -   
+nyami	 -   	 -   	 -   	 -   	 -   
+oatmeal	 -   	 -   	 -   	 -   	 -   
+oats, rolled	 -   	 -   	 -   	 -   	 -   
+ogbono	 1 	 1 	 -   	 -   	 -   
+oil	 -   	 -   	 -   	 -   	 -   
+oil, almond, bitter	 1 	 1 	 -   	 -   	1
+oil, canola	 -   	 -   	 -   	 -   	 -   
+oil, vegetable	 -   	 -   	 -   	 -   	 -   
+okra	 1 	 1 	 -   	 -   	 -   
+olive	 -   	 -   	 -   	 -   	 -   
+olive, black, oil-cured	 -   	 -   	 -   	 -   	 -   
+omit from recipe	 1 	 1 	 -   	 -   	 -   
+onion	 -   	 -   	 -   	 -   	 -   
+onion, Bermuda	 -   	 -   	 -   	 -   	 -   
+onion, boiler	 -   	 -   	 -   	 -   	 -   
+onion, boiling	 -   	 -   	 -   	 -   	 -   
+onion, Borettana	 -   	 -   	 -   	 -   	 -   
+onion, bunching	 -   	 -   	 -   	 -   	 -   
+onion, Chinese	 -   	 -   	 -   	 -   	 -   
+onion, cippolini	 -   	 -   	 -   	 -   	 -   
+onion, dried	 -   	 -   	 -   	 -   	 -   
+onion, dried, flakes	 -   	 -   	 -   	 -   	 -   
+onion, flakes	 -   	 -   	 -   	 -   	 -   
+onion, flakes, dehydrated	 -   	 -   	 -   	 -   	 -   
+onion, fresh	 -   	 -   	 -   	 -   	 -   
+onion, green	 -   	 -   	 -   	 -   	 -   
+onion, green, bulb	 -   	 -   	 -   	 -   	 -   
+onion, pearl	 -   	 -   	 -   	 -   	 -   
+onion, powder	 -   	 -   	 -   	 -   	 -   
+onion, red	 -   	 -   	 -   	 -   	 -   
+onion, shallot	 -   	 -   	 -   	 -   	 -   
+onion, Spanish	 -   	 -   	 -   	 -   	 -   
+onion, spring	 -   	 -   	 -   	 -   	 -   
+onion, summer	 -   	 -   	 -   	 -   	 -   
+onion, sweet	 -   	 -   	 -   	 -   	 -   
+onion, white	 -   	 -   	 -   	 -   	 -   
+onion, yellow	 -   	 -   	 -   	 -   	 -   
+onion, yellow, globe	 -   	 -   	 -   	 -   	 -   
+onion, yellow, storage	 -   	 -   	 -   	 -   	 -   
+onions, cockatil	 -   	 -   	 -   	 -   	 -   
+orange, peel	 1 	 1 	 -   	 -   	 -   
+orange, zest	 1 	 1 	 -   	 -   	 -   
+oregano	 1 	 1 	 -   	 -   	 -   
+oyster, plant	 -   	 -   	 -   	 -   	 -   
+oyster, vegetable	 -   	 -   	 -   	 -   	 -   
+padrushka	 -   	 -   	 -   	 -   	 -   
+pak chee	 1 	 1 	 -   	 -   	 -   
+palillo	 1 	 1 	 -   	 -   	 -   
+palm, heart	 -   	 -   	 -   	 -   	 -   
+palmito	 -   	 -   	 -   	 -   	 -   
+pancetta	 -   	 -   	 -   	 -   	 -   
+pandan leaf	 1 	 1 	 -   	 -   	 -   
+pandanus leaf 	 1 	 1 	 -   	 -   	 -   
+papalo	 1 	 1 	 -   	 -   	 -   
+pápalo	 1 	 1 	 -   	 -   	 -   
+papaloquelite	 1 	 1 	 -   	 -   	 -   
+paprika	 1 	 1 	 -   	 -   	 -   
+paprika, hot	 1 	 1 	 -   	 -   	 -   
+paprika, Hungarian	 1 	 1 	 -   	 -   	 -   
+paprika, milder	 1 	 1 	 -   	 -   	 -   
+paprika, rose	 1 	 1 	 -   	 -   	 -   
+paprika, Spanish	 1 	 1 	 -   	 -   	 -   
+paprika, sweet	 1 	 1 	 -   	 -   	 -   
+parsley	 1 	 1 	 -   	 -   	 -   
+parsley 	 1 	 1 	 -   	 -   	 -   
+parsley, Chinese	 1 	 1 	 -   	 -   	 -   
+parsley, curly	 1 	 1 	 -   	 -   	 -   
+parsley, curly-leaf	 1 	 1 	 -   	 -   	 -   
+parsley, Dutch	 -   	 -   	 -   	 -   	 -   
+parsley, Hamburg	 -   	 -   	 -   	 -   	 -   
+parsley, Italian	 1 	 1 	 -   	 -   	 -   
+parsley, Mexican	 1 	 1 	 -   	 -   	 -   
+parsley, parsnip-rooted	 -   	 -   	 -   	 -   	 -   
+parsley, root	 -   	 -   	 -   	 -   	 -   
+parsley, turnip-rooted	 -   	 -   	 -   	 -   	 -   
+parsnip	 -   	 -   	 -   	 -   	 -   
+pasta, couscous	 -   	 -   	 -   	 -   	 -   
+pasta, spaghetti	 -   	 -   	 -   	 -   	 -   
+peanut	 1 	 1 	 -   	 -   	1
+peanuts	 1 	 1 	 -   	 -   	1
+pecan	 1 	 1 	 -   	 -   	1
+pepicha	 1 	 1 	 -   	 -   	 -   
+pepper leaf	 1 	 1 	 -   	 -   	 -   
+pepper, anise	 1 	 1 	 -   	 -   	 -   
+pepper, black, milder	 1 	 1 	 -   	 -   	 -   
+pepper, cayenne	 1 	 1 	 -   	 -   	 -   
+pepper, Chinese	 1 	 1 	 -   	 -   	 -   
+pepper, Chinese aromatic	 1 	 1 	 -   	 -   	 -   
+pepper, clove	 1 	 1 	 -   	 -   	 -   
+pepper, fagara	 1 	 1 	 -   	 -   	 -   
+pepper, flower	 1 	 1 	 -   	 -   	 -   
+pepper, Hungarian	 1 	 1 	 -   	 -   	 -   
+pepper, Jamaica	 1 	 1 	 -   	 -   	 -   
+pepper, Japanese	 1 	 1 	 -   	 -   	 -   
+pepper, lemon	 1 	 1 	 -   	 -   	 -   
+pepper, long	 1 	 1 	 -   	 -   	 -   
+pepper, myrtle	 1 	 1 	 -   	 -   	 -   
+pepper, pizza	 1 	 1 	 -   	 -   	 -   
+pepper, red	 1 	 1 	 -   	 -   	 -   
+pepper, red, crushed	 1 	 1 	 -   	 -   	 -   
+pepper, red, flakes	 1 	 1 	 -   	 -   	 -   
+pepper, Spanish	 1 	 1 	 -   	 -   	 -   
+pepper, water	 1 	 1 	 -   	 -   	 -   
+pepper, wild	 1 	 1 	 -   	 -   	 -   
+peppercorn, black	 1 	 1 	 -   	 -   	 -   
+peppercorn, brown	 1 	 1 	 -   	 -   	 -   
+peppercorn, Sichuan	 1 	 1 	 -   	 -   	 -   
+peppercorn, Szechuan	 1 	 1 	 -   	 -   	 -   
+peppercorn, Szechwan	 1 	 1 	 -   	 -   	 -   
+peppermint	 1 	 1 	 -   	 -   	 -   
+Pernod Ricard	 -   	 -   	 -   	 -   	 -   
+pesto	 1 	 1 	 -   	 -   	 -   
+pie plant	 -   	 -   	 -   	 -   	 -   
+pignoli	 1 	 1 	 -   	 -   	1
+pignolia	 1 	 1 	 -   	 -   	1
+pignolo	 1 	 1 	 -   	 -   	1
+pimento	 1 	 1 	 -   	 -   	 -   
+pimenton	 1 	 1 	 -   	 -   	 -   
+pimentón	 1 	 1 	 -   	 -   	 -   
+pimiento	 1 	 1 	 -   	 -   	 -   
+pine kernel	 1 	 1 	 -   	 -   	1
+pinolea	 1 	 1 	 -   	 -   	1
+pinoli	 1 	 1 	 -   	 -   	1
+piñon	 1 	 1 	 -   	 -   	1
+pinyon	 1 	 1 	 -   	 -   	1
+pipicha	 1 	 1 	 -   	 -   	 -   
+pistachio	 1 	 1 	 -   	 -   	1
+pistachio nut	 1 	 1 	 -   	 -   	1
+pohole	 -   	 -   	 -   	 -   	 -   
+potato	 -   	 -   	 -   	 -   	 -   
+potato, baby	 -   	 -   	 -   	 -   	 -   
+potato, baking	 -   	 -   	 -   	 -   	 -   
+potato, Bintje  	 -   	 -   	 -   	 -   	 -   
+potato, black	 -   	 -   	 -   	 -   	 -   
+potato, blue	 -   	 -   	 -   	 -   	 -   
+potato, boiling	 -   	 -   	 -   	 -   	 -   
+potato, Caribe	 -   	 -   	 -   	 -   	 -   
+potato, chat	 -   	 -   	 -   	 -   	 -   
+potato, chef	 -   	 -   	 -   	 -   	 -   
+potato, Chinese	 -   	 -   	 -   	 -   	 -   
+potato, creamer	 -   	 -   	 -   	 -   	 -   
+potato, earlies   	 -   	 -   	 -   	 -   	 -   
+potato, finger	 -   	 -   	 -   	 -   	 -   
+potato, fingerling	 -   	 -   	 -   	 -   	 -   
+potato, Finnish yellow wax   	 -   	 -   	 -   	 -   	 -   
+potato, Idaho	 -   	 -   	 -   	 -   	 -   
+potato, Japanese	 -   	 -   	 -   	 -   	 -   
+potato, low-starch	 -   	 -   	 -   	 -   	 -   
+potato, new	 -   	 -   	 -   	 -   	 -   
+potato, new  	 -   	 -   	 -   	 -   	 -   
+potato, nugget	 -   	 -   	 -   	 -   	 -   
+potato, Okinawan purple	 -   	 -   	 -   	 -   	 -   
+potato, purple	 -   	 -   	 -   	 -   	 -   
+potato, purple, Peruvian	 -   	 -   	 -   	 -   	 -   
+potato, red	 -   	 -   	 -   	 -   	 -   
+potato, red round	 -   	 -   	 -   	 -   	 -   
+potato, red-skinned	 -   	 -   	 -   	 -   	 -   
+potato, russet	 -   	 -   	 -   	 -   	 -   
+potato, starchy	 -   	 -   	 -   	 -   	 -   
+potato, sweet	 -   	 -   	 -   	 -   	 -   
+potato, sweet, Cuban	 -   	 -   	 -   	 -   	 -   
+potato, sweet, moist-fleshed	 -   	 -   	 -   	 -   	 -   
+potato, sweet, white	 -   	 -   	 -   	 -   	 -   
+potato, sweet, white-fleshed	 -   	 -   	 -   	 -   	 -   
+potato, tropical sweet	 -   	 -   	 -   	 -   	 -   
+potato, waxy	 -   	 -   	 -   	 -   	 -   
+potato, white rose	 -   	 -   	 -   	 -   	 -   
+potato, white round	 -   	 -   	 -   	 -   	 -   
+potato, Yellow Finn	 -   	 -   	 -   	 -   	 -   
+potato, Yellow Finn 	 -   	 -   	 -   	 -   	 -   
+potato, Yellow Finn  	 -   	 -   	 -   	 -   	 -   
+potato, Yellow Finnish	 -   	 -   	 -   	 -   	 -   
+potato, Yukon Gold	 -   	 -   	 -   	 -   	 -   
+potato, Yukon Gold 	 -   	 -   	 -   	 -   	 -   
+poultry seasoning	 1 	 1 	 -   	 -   	 -   
+prosciutto	 -   	 -   	 -   	 -   	 -   
+prunes	 -   	 -   	 -   	 -   	 -   
+pumpkin	 -   	 -   	 -   	 -   	 -   
+pumpkin pie spice	 1 	 1 	 -   	 -   	 -   
+pupulu	 1 	 1 	 -   	 -   	 -   
+purslane	 1 	 1 	 -   	 -   	 -   
+qaimaaq	 1 	 -   	 1 	 -   	 -   
+queso, anejado	 1 	 -   	 1 	 -   	 -   
+quinces 	 -   	 -   	 -   	 -   	 -   
+quinoa	 -   	 -   	 -   	 -   	 -   
+quinoa	 1 	 1 	 -   	 -   	 -   
+radicchio	 -   	 -   	 -   	 -   	 -   
+radish	 -   	 -   	 -   	 -   	 -   
+radish, black	 -   	 -   	 -   	 -   	 -   
+radish, Chinese	 -   	 -   	 -   	 -   	 -   
+radish, daikon	 -   	 -   	 -   	 -   	 -   
+radish, icicle	 -   	 -   	 -   	 -   	 -   
+radish, Japanese	 -   	 -   	 -   	 -   	 -   
+radish, Oriental	 -   	 -   	 -   	 -   	 -   
+radish, white	 -   	 -   	 -   	 -   	 -   
+ramp	 -   	 -   	 -   	 -   	 -   
+rampe leaf	 1 	 1 	 -   	 -   	 -   
+ramps	 -   	 -   	 -   	 -   	 -   
+ramps  	 -   	 -   	 -   	 -   	 -   
+rau ot	 1 	 1 	 -   	 -   	 -   
+rau ram	 1 	 1 	 -   	 -   	 -   
+recao	 1 	 1 	 -   	 -   	 -   
+red chile	 1 	 1 	 -   	 -   	 -   
+red chile, powder	 1 	 1 	 -   	 -   	 -   
+red chili peppers, crushed	 1 	 1 	 -   	 -   	 -   
+red onion	 -   	 -   	 -   	 -   	 -   
+rice	 -   	 -   	 -   	 -   	 -   
+rice	 1 	 1 	 -   	 -   	 -   
+ricotta	 -   	 -   	 -   	 -   	 -   
+romeritos	 1 	 1 	 -   	 -   	 -   
+root, gobo	 -   	 -   	 -   	 -   	 -   
+root, tapioca	 -   	 -   	 -   	 -   	 -   
+root, yuca	 -   	 -   	 -   	 -   	 -   
+root, yucca	 -   	 -   	 -   	 -   	 -   
+rootbeer plant leaves	 1 	 1 	 -   	 -   	 -   
+rootbeer plant, leaf	 1 	 1 	 -   	 -   	 -   
+rosemary	 1 	 1 	 -   	 -   	 -   
+roucou	 1 	 1 	 -   	 -   	 -   
+rutabaga	 -   	 -   	 -   	 -   	 -   
+saa got	 -   	 -   	 -   	 -   	 -   
+safflower	 1 	 1 	 -   	 -   	 -   
+saffron	 1 	 1 	 -   	 -   	 -   
+saffron, American	 1 	 1 	 -   	 -   	 -   
+saffron, eastern	 1 	 1 	 -   	 -   	 -   
+saffron, flower	 1 	 1 	 -   	 -   	 -   
+saffron, Indian	 1 	 1 	 -   	 -   	 -   
+saffron, Mexican	 1 	 1 	 -   	 -   	 -   
+saffron, powder	 1 	 1 	 -   	 -   	 -   
+saffron, threads	 1 	 1 	 -   	 -   	 -   
+sage	 1 	 1 	 -   	 -   	 -   
+salam leaf	 1 	 1 	 -   	 -   	 -   
+salsify	 -   	 -   	 -   	 -   	 -   
+salsify   	 -   	 -   	 -   	 -   	 -   
+sancho	 1 	 1 	 -   	 -   	 -   
+sassafras, leaf	 1 	 1 	 -   	 -   	 -   
+sato-imo	 -   	 -   	 -   	 -   	 -   
+savory	 1 	 1 	 -   	 -   	 -   
+savory 	 1 	 1 	 -   	 -   	 -   
+scallion	 -   	 -   	 -   	 -   	 -   
+screw pine leaf	 1 	 1 	 -   	 -   	 -   
+screwpine leaf	 1 	 1 	 -   	 -   	 -   
+seasoning, Italian	 1 	 1 	 -   	 -   	 -   
+seasoning, poultry	 1 	 1 	 -   	 -   	 -   
+seegoo	 -   	 -   	 -   	 -   	 -   
+sesame leaf	 1 	 1 	 -   	 -   	 -   
+sesame, seed	 1 	 1 	 -   	 -   	 -   
+shiso	 1 	 1 	 -   	 -   	 -   
+shiso leaves	 1 	 1 	 -   	 -   	 -   
+smallage	 1 	 1 	 -   	 -   	 -   
+smellage	 1 	 1 	 -   	 -   	 -   
+snoober	 1 	 1 	 -   	 -   	1
+soda	 -   	 -   	 -   	 -   	 -   
+sour cream	 -   	 -   	 -   	 -   	 -   
+soy sauce	 -   	 -   	 -   	 -   	 -   
+spearmint	 1 	 1 	 -   	 -   	 -   
+spearmint, wild	 1 	 1 	 -   	 -   	 -   
+spinach	 1 	 1 	 -   	 -   	 -   
+spinach   	 -   	 -   	 -   	 -   	 -   
+spinach, leaf	 -   	 -   	 -   	 -   	 -   
+spirit weed	 1 	 1 	 -   	 -   	 -   
+squash, spaghetti	 -   	 -   	 -   	 -   	 -   
+starch, potato	 -   	 -   	 -   	 -   	 -   
+starch, tapioca	 -   	 -   	 -   	 -   	 -   
+stevia, liquid	 -   	 -   	 -   	 -   	 -   
+stevia, powder	 -   	 -   	 -   	 -   	 -   
+stinkweed	 1 	 1 	 -   	 -   	 -   
+sugar, brown	 -   	 -   	 -   	 -   	 -   
+sugar, confectioners	 -   	 -   	 -   	 -   	 -   
+sugar, granulated	 -   	 -   	 -   	 -   	 -   
+summer savory	 1 	 1 	 -   	 -   	 -   
+summer savory 	 1 	 1 	 -   	 -   	 -   
+sunchoke	 -   	 -   	 -   	 -   	 -   
+sunchokes	 -   	 -   	 -   	 -   	 -   
+sunflower, seed	 1 	 1 	 -   	 -   	1
+sunroot	 -   	 -   	 -   	 -   	 -   
+Swede	 -   	 -   	 -   	 -   	 -   
+swiss chard	 1 	 1 	 -   	 -   	 -   
+syrup, maple	 -   	 -   	 -   	 -   	 -   
+takenoko	 -   	 -   	 -   	 -   	 -   
+take-noko	 -   	 -   	 -   	 -   	 -   
+tamari	 -   	 -   	 -   	 -   	 -   
+tanier	 -   	 -   	 -   	 -   	 -   
+tannia	 -   	 -   	 -   	 -   	 -   
+tannier	 -   	 -   	 -   	 -   	 -   
+taro	 -   	 -   	 -   	 -   	 -   
+taro, root	 -   	 -   	 -   	 -   	 -   
+tarragon	 1 	 1 	 -   	 -   	 -   
+thyme  	 1 	 1 	 -   	 -   	 -   
+thyme, lemon	 1 	 1 	 -   	 -   	 -   
+tofu, silken	 -   	 -   	 -   	 -   	 -   
+tomato, sun-dried	 -   	 -   	 -   	 -   	 -   
+topinambour	 -   	 -   	 -   	 -   	 -   
+tortilla, corn	 -   	 -   	 -   	 -   	 -   
+tortilla, flour	 -   	 -   	 -   	 -   	 -   
+toute-epice	 1 	 1 	 -   	 -   	 -   
+truffle, Tennessee	 -   	 -   	 -   	 -   	 -   
+tse goo	 -   	 -   	 -   	 -   	 -   
+tsu goo	 -   	 -   	 -   	 -   	 -   
+tung sun	 -   	 -   	 -   	 -   	 -   
+turkey, ground	 -   	 -   	 -   	 -   	 -   
+turmeric	 1 	 1 	 -   	 -   	 -   
+turmeric, fresh	 1 	 1 	 -   	 -   	 -   
+turmeric, ground	 1 	 1 	 -   	 -   	 -   
+turmeric, leaf	 1 	 1 	 -   	 -   	 -   
+turnip	 -   	 -   	 -   	 -   	 -   
+turnip, Chinese	 -   	 -   	 -   	 -   	 -   
+turnip, Swede	 -   	 -   	 -   	 -   	 -   
+turnip, yellow	 -   	 -   	 -   	 -   	 -   
+turnip, young	 -   	 -   	 -   	 -   	 -   
+udo	 -   	 -   	 -   	 -   	 -   
+vanilla	 1 	 1 	 -   	 -   	 -   
+vanilla, bean	 1 	 1 	 -   	 -   	 -   
+vanilla, extract	 1 	 1 	 -   	 -   	 -   
+vanilla, pod	 1 	 1 	 -   	 -   	 -   
+vegetable shortening	 -   	 -   	 -   	 -   	 -   
+verbena	 1 	 1 	 -   	 -   	 -   
+walnut	 1 	 1 	 -   	 -   	1
+walnut, black	 1 	 1 	 -   	 -   	1
+walnut, country	 1 	 1 	 -   	 -   	1
+walnut, English	 1 	 1 	 -   	 -   	1
+walnut, Persian	 1 	 1 	 -   	 -   	1
+walnut, royal	 1 	 1 	 -   	 -   	1
+walnut, white	 1 	 1 	 -   	 -   	1
+wasabi	 -   	 -   	 -   	 -   	 -   
+wasabi, powder	 1 	 1 	 -   	 -   	 -   
+water	 -   	 -   	 -   	 -   	 -   
+water caltrop	 1 	 1 	 -   	 -   	1
+water chestnut	 -   	 -   	 -   	 -   	 -   
+water, boiling	 -   	 -   	 -   	 -   	 -   
+watercress	 -   	 -   	 -   	 -   	 -   
+wheat, berries	 1 	 1 	 -   	 1 	 -   
+wheat, bulgar	 1 	 1 	 -   	 1 	 -   
+wheat, bulghur	 1 	 1 	 -   	 1 	 -   
+wheat, bulgur	 1 	 1 	 -   	 1 	 -   
+wheat, burghal	 1 	 1 	 -   	 1 	 -   
+wheat, burghul	 1 	 1 	 -   	 1 	 -   
+wheat, cracked	 1 	 1 	 -   	 1 	 -   
+winter savory 	 1 	 1 	 -   	 -   	 -   
+wormseed	 1 	 1 	 -   	 -   	 -   
+xantham gum	 -   	 -   	 -   	 -   	 -   
+yacon 	 -   	 -   	 -   	 -   	 -   
+yam	 -   	 -   	 -   	 -   	 -   
+yam bean	 -   	 -   	 -   	 -   	 -   
+yam bean, Mexican	 -   	 -   	 -   	 -   	 -   
+yam, greater	 -   	 -   	 -   	 -   	 -   
+yam, Japanese	 -   	 -   	 -   	 -   	 -   
+yam, Japanese mountain	 -   	 -   	 -   	 -   	 -   
+yam, Okinawan	 -   	 -   	 -   	 -   	 -   
+yam, tropical	 -   	 -   	 -   	 -   	 -   
+yam, true	 -   	 -   	 -   	 -   	 -   
+yamaimo	 -   	 -   	 -   	 -   	 -   
+yampi	 -   	 -   	 -   	 -   	 -   
+yams	 -   	 -   	 -   	 -   	 -   
+yautia   	 -   	 -   	 -   	 -   	 -   
+yerba buena	 1 	 1 	 -   	 -   	 -   
+yogurt, Greek	 -   	 -   	 -   	 -   	 -   
+yogurt, Greek, low fat	 -   	 -   	 -   	 -   	 -   
+yogurt, low fat	 -   	 -   	 -   	 -   	 -   
+yogurt, plain	 -   	 -   	 -   	 -   	 -   
+yogurt, soy	 -   	 -   	 -   	 -   	 -   
+yucca	 -   	 -   	 -   	 -   	 -   
+yuen-sai	 1 	 1 	 -   	 -   	 -   
+zest, kaffir lime	 1 	 1 	 -   	 -   	 -   
+zest, lemon	 1 	 1 	 -   	 -   	 -   
+zest, lime	 1 	 1 	 -   	 -   	 -   
+zucchini	 1 	 1 	 -   	 -   	 -   

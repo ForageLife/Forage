@@ -1,0 +1,13 @@
+<ul id="ingredients_list">
+  <% for ingredient in @ingredients.models: %>
+    <li class="ingredient_list">
+      <div class="ingredient_container">
+        <div class="ingredient">
+          <%= ingredient.get('name') %>
+        </div>
+        <a class="red_x" data-name="<%= ingredient.get('name') %>">
+        </a>
+      </div>
+    </li>
+  <% end %>
+</ul>

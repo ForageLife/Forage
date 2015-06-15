@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ingredient_amount: 1
+  ingredient_metric: MyString
+  ingredient_name: MyString
+  directions: MyText
+
+two:
+  ingredient_amount: 1
+  ingredient_metric: MyString
+  ingredient_name: MyString
+  directions: MyText

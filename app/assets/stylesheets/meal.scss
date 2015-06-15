@@ -1,0 +1,34 @@
+// Place all the styles related to the meal controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.meal {
+	float:left;
+	width: 300px;
+}
+
+#meals_title {
+	color:white;
+	background: #0070C0;
+	padding: 10px;
+}
+
+.day_of_week{
+	text-align: center;
+	margin-right :50px;
+}
+
+.ingredient_name{
+	text-align: center;
+	margin-right :50px;
+	font-size:small;
+	font-style:italic;
+}
+
+.blue{
+	color:#0070C0;
+}
+
+.ingredient_list{
+	list-style:none;
+}

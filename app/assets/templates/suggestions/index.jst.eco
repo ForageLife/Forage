@@ -1,0 +1,7 @@
+<% for suggestion in @suggestions: %>
+  <li>
+    <a class="suggestion">
+      <%= suggestion %>
+    </a>
+  </li>
+<% end %>

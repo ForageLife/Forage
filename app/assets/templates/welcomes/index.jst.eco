@@ -1,0 +1,67 @@
+<table cellspacing="10">
+  <tr>
+    <td class="active">Account</td>
+    <td>Recipe Book</td> 
+    <td>My Pantry</td>
+	<td>Recipe Converter</td>
+	<td>Research</td>
+	<td>Community</td>
+	<td>Help and Support</td>
+  </tr>
+</table>
+<div id="floaters">
+  <div class="float_left">
+    <h2 id="lifestyles_title">
+      Lifestyles
+    </h2>
+    <div>
+      <div class="lifestyle_container"><input class="hidden" type="checkbox" id="vegetarian"><label for="vegetarian"></label><p class="lifestyle_label">Vegetarian</p></div>
+      <div class="lifestyle_container"><input class="hidden" type="checkbox" id="vegan"><label for="vegan"></label><p class="lifestyle_label">Vegan</p></div>
+      <div class="lifestyle_container"><input class="hidden" type="checkbox" id="dairy_free"><label for="dairy_free"></label><p class="lifestyle_label">Dairy Free</p></div>
+      <div class="lifestyle_container"><input class="hidden" type="checkbox" id="gluten_free"><label for="gluten_free"></label><p class="lifestyle_label">Gluten Free</p></div>
+      <div class="lifestyle_container"><input class="hidden" type="checkbox" id="nut_free"><label for="nut_free"></label><p class="lifestyle_label">Nut Free</p></div>
+    </div>
+  </div>
+  <div class="float_left">
+    <h2 id="crossover_slider_title">
+      Ingredient Crossover Slider
+    </h2>
+    <div id="crossover_slider">
+    </div>
+    <div id="crossover_slider_label">
+    </div>
+  </div>
+  <div id="ingredient_inclusions">
+    Ingredient Inclusions:<button id="minimize_ingredients"></button>
+  </div>
+  <div class="float_left">
+    <a id="forage_button">Forage!</a>
+  </div>
+  <div class="float_left">
+    <a id="grocery_list">Get Grocery List!</a>
+  </div>
+</div>
+<div id="ingredient_content">
+  <div id="ingredient_container">
+    <h2>
+      Ingredient Search
+    </h2>
+    <input type="text" id="add_ingredient_field">
+    <div id="ingredients_container">
+      <div id="ingredients">
+      </div>
+    </div>
+  </div>
+  <div id="suggestions_container">
+    <h2>
+      Suggestions
+    </h2>
+    <div id="suggestions">
+    </div>
+  </div>
+</div>
+<h2 id="meals_title">
+  This Week's Menu:
+</h2>
+<div id="meals">
+</div>

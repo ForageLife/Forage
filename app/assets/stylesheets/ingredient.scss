@@ -1,0 +1,31 @@
+// Place all the styles related to the ingredient controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.red_x {
+	background: image-url("red_x.jpg");
+	background-size: cover;
+	height: 18px;
+	width: 18px;
+	float: left;
+	cursor: pointer;
+	margin-left:5px;
+}
+
+.ingredient {
+	float: left;
+}
+
+.ingredient_list{
+	list-style: none
+}
+
+.ingredient_container{
+	height:20px;
+	width:300px;
+}
+
+#ingredients{
+	height: 212px;
+	overflow:auto;
+}

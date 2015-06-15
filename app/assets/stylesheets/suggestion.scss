@@ -1,0 +1,13 @@
+// Place all the styles related to the suggestion controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.suggestion {
+	cursor: pointer;
+}
+
+#suggestions{
+	height:233px;
+	overflow:auto;
+	list-style:none;
+}

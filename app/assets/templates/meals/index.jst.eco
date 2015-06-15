@@ -1,0 +1,27 @@
+<div>
+  <% count = 0 %>
+  <% for meal in @meals: %>
+    <div class="meal">
+      <h3 class="day_of_week blue"><%= @weekdays[count] %></h3>
+      <% count = count + 1 %>
+      <h3 class="ingredient_name blue"><%= meal.name %></h3>
+      <img src="<%= meal.food_url %>">
+      <p class="blue">Ingredients:</p>
+      <ul class="ingredient_list">
+        <% for ingredient in meal.ingredients: %>
+          <li>
+            <% if ingredient.ingredient_amount == "0" : %>
+              <%= $.grep([ingredient.ingredient_metric, ingredient.ingredient_name], Boolean).join(" ") %>
+            <% else : %>
+              <%= $.grep([Number(ingredient.ingredient_amount), ingredient.ingredient_metric, ingredient.ingredient_name], Boolean).join(" ") %>
+            <% end %>
+          </li>
+        <% end %>
+      </ul>
+      <p class="blue">Directions:</p>
+      <p>
+        <%= meal.directions %>
+      </p>
+    </div>
+  <% end %>
+</div>
